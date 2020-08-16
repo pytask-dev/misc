@@ -1,0 +1,7 @@
+name: gif
+channels:
+  - pytask
+  - conda-forge
+dependencies:
+  - python
+  - pytask
